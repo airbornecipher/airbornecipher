@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @airbornecipher
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning SANS SEC501, SEC555
+- 👀 I’m interested in cybersecurity, cloud security
+- 🌱 I’m currently learning Microsoft Azure Solutions Architect Expert AZ-305, Security Engineer Associate AZ-500, Cisco CCNA 200-301
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jason.d.wasser@gmail.com
 
